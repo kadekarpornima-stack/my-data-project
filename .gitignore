@@ -3,3 +3,11 @@ data/processed/*
 .DS_Store
 Thumbs.db
 .ipynb_checkpoints/
+data/raw/*
+data/processed/*
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+
+# Ignore our virtual environment folder
+env/
