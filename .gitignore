@@ -11,3 +11,4 @@ Thumbs.db
 
 # Ignore our virtual environment folder
 env/
+python -m venv env
